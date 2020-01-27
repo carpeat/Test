@@ -4,13 +4,13 @@
   WEB-Application for working with the catalog of dresses with the possibility of accounting for rented dresses.
   The application should release the following functions:
   * viewing and editing the catalog of dresses;
-  * display of the cost and payback of each individual dress and the quantity, total cost and payback of all dresses;
+  * display of the cost and payback of each individual dress and the quantity, total cost and profitability of all dresses;
   * viewing and editing the catalog of rented dresses;
   * display of rented dresses for a given date range
   
 ## 1. Dresses
 ### 1.1 Viewing the list of dresses
-  This program mode is designed to view the list of dresses, the cost and payback of each dress and the quantity, total cost and payback of all dresses.
+  This program mode is designed to view the list of dresses, the cost and profitability of each dress and the quantity, total cost and rofitability of all dresses.
   
   
   Main script:
@@ -23,9 +23,9 @@ Pic. 1.1 Viewing the list of dresses
 The following columns are displayed in the list:
 * Dress - dress name;
 * Price - dress price;
-* Payback - dress payback
+* Profitability - dress profitability
 
-Number of dresses, total cost and payback is displayed at the end of the list.
+Number of dresses, total cost and profitability is displayed at the end of the list.
 
 ## 1.2 Adding dress
   
