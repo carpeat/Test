@@ -17,6 +17,7 @@
   * the user selects the menu item "Dresses";
   * a list view of all dresses is displayed.
 ![Image alt](https://github.com/carpeat/Test/raw/master/documentation/dresses.png)
+
 Pic. 1.1 Viewing the list of dresses
 
 The following columns are displayed in the list:
